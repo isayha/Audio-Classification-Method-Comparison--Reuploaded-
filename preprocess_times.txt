@@ -1,0 +1,3 @@
+preprocess_method = 0 (.\wavDataPP0\): 1236s (~20 min)
+preprocess_method = 1 (.\wavDataPP1\): 234s (~4 min)
+preprocess_method = 2 (.\wavDataPP2): 1540s
